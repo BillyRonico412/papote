@@ -1,0 +1,3304 @@
+[
+  {
+    "id": "couple-001",
+    "question": "Avec qui, dans toute l'Histoire, aimerais-tu dîner ?",
+    "forme": "scenario",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-002",
+    "question": "Aimerais-tu être célèbre ? Pour quoi ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-003",
+    "question": "Avant de passer un coup de fil, répètes-tu ce que tu vas dire ? Pourquoi ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-004",
+    "question": "À quoi ressemblerait ta journée parfaite ?",
+    "forme": "scenario",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-005",
+    "question": "Jusqu'à 90 ans, préférerais-tu garder le corps ou l'esprit de tes 30 ans ?",
+    "forme": "dilemme",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-006",
+    "question": "As-tu une intuition secrète sur la façon dont tu mourras ?",
+    "forme": "aveu",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 1,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-007",
+    "question": "Pour quoi te sens-tu le plus reconnaissant.e dans ta vie ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-008",
+    "question": "Si tu te réveillais demain avec une nouvelle qualité, laquelle choisirais-tu ?",
+    "forme": "scenario",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-009",
+    "question": "Quel est ton souvenir le plus précieux ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-010",
+    "question": "Si tu savais que tu allais mourir dans un an, que changerais-tu dès demain ?",
+    "forme": "scenario",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-011",
+    "question": "Qu'est-ce qui est trop sérieux pour qu'on en plaisante ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-012",
+    "question": "Si tu disparaissais ce soir, que regretterais-tu de ne pas avoir dit à quelqu'un ?",
+    "forme": "scenario",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-013",
+    "question": "Ta maison brûle. Après les êtres vivants, tu peux sauver un seul objet. Lequel ?",
+    "forme": "dilemme",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-014",
+    "question": "Comment décrirais-tu ta relation avec ta mère ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-015",
+    "question": "Partage un moment vraiment embarrassant de ta vie.",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-016",
+    "question": "Quel est le dernier truc qui t'a fait rire aux larmes ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-017",
+    "question": "Quelle question de premier rendez-vous détestes-tu qu'on te pose ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-018",
+    "question": "Quel est ton plaisir coupable musical ? Chante un bout.",
+    "forme": "defi",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-019",
+    "question": "Quel est ton tout premier souvenir ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-020",
+    "question": "Questionnaire de Proust : quel don de la nature voudrais-tu avoir ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-021",
+    "question": "Questionnaire de Proust : quelle qualité préfères-tu chez quelqu'un ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-022",
+    "question": "Raconte ton enfance en trois scènes.",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-023",
+    "question": "Quel était ton surnom à l'école, et qui te l'avait donné ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-024",
+    "question": "Quel adulte t'a le plus marqué.e quand tu étais enfant ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-025",
+    "question": "Décris ta chambre d'ado. Quels posters au mur ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-026",
+    "question": "Quel est ton red flag absolu chez quelqu'un ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-027",
+    "question": "Qu'as-tu appris de ta dernière relation ?",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-028",
+    "question": "Raconte ton pire rendez-vous avant moi.",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-029",
+    "question": "Qu'est-ce qui te fait craquer physiquement en premier chez quelqu'un ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-030",
+    "question": "Qu'est-ce qui rend quelqu'un sexy, au-delà du physique ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-031",
+    "question": "Le premier rendez-vous idéal, il se termine comment ?",
+    "forme": "scenario",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-032",
+    "question": "Combien de temps faut-il pour savoir si c'est la bonne personne ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-033",
+    "question": "Le mariage : envie, indifférence ou allergie ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-034",
+    "question": "Raconte ton premier amour. Qu'est-ce qu'il t'a appris ?",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-035",
+    "question": "Quel est le voyage qui t'a le plus transformé.e ?",
+    "forme": "recit",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-036",
+    "question": "Quelle est la plus grosse bêtise de ton adolescence ?",
+    "forme": "aveu",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-037",
+    "question": "Quelle est la chose la plus illégale que tu aies faite ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-038",
+    "question": "Quel coup pendable as-tu fait dont tu es secrètement fier.e ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-039",
+    "question": "Quel est le pire mensonge que tu aies raconté à tes parents ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-040",
+    "question": "Quel est ton rapport à l'argent, et d'où vient-il ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-041",
+    "question": "Qu'est-ce qui te rend profondément heureux.se ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-042",
+    "question": "Quelle valeur défendrais-tu coûte que coûte ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-043",
+    "question": "Crois-tu à quelque chose après la mort ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-044",
+    "question": "Quel est ton plus grand paradoxe ?",
+    "forme": "aveu",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-045",
+    "question": "Si tu devais écrire ta propre épitaphe, que dirait-elle ?",
+    "forme": "portrait",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-046",
+    "question": "Es-tu du matin ou du soir, et qu'est-ce que ça dit de toi ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-047",
+    "question": "Qu'est-ce qui t'apaise instantanément ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-048",
+    "question": "Quelle est ta peur la plus ridicule ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-049",
+    "question": "Quelle chanson te donne des frissons à chaque fois ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-050",
+    "question": "Qu'est-ce qui te met de bonne humeur, à coup sûr ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-051",
+    "question": "Quel film te fait pleurer à chaque fois ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-052",
+    "question": "Quelle est la chose qui te fait le plus peur dans la vie ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-053",
+    "question": "Quel est le compliment que tu n'oublieras jamais ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-054",
+    "question": "Quel rôle jouais-tu dans ta fratrie ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-055",
+    "question": "Qui te connaît le mieux au monde ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-056",
+    "question": "Qu'est-ce qui compte le plus pour toi dans une amitié ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-057",
+    "question": "Où aimerais-tu vivre si rien ne te retenait ?",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-058",
+    "question": "Quel rêve d'enfant aimerais-tu encore réaliser ?",
+    "forme": "aveu",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-059",
+    "question": "Quelle est la chose qu'il te reste absolument à faire dans ta vie ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-060",
+    "question": "Quel prénom ne donnerais-tu jamais à un enfant, et pourquoi ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-061",
+    "question": "Si on se croisait aujourd'hui pour la première fois, m'aborderais-tu ? Comment ?",
+    "forme": "scenario",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-062",
+    "question": "Quelle est la première chose que tu as remarquée chez moi ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-063",
+    "question": "Si tu devais me décrire en trois mots, lesquels ?",
+    "forme": "portrait",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-064",
+    "question": "Quelle est la chose la plus romantique que quelqu'un ait faite pour toi ?",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-065",
+    "question": "Préférerais-tu un rendez-vous parfait sous la pluie ou raté au soleil ?",
+    "forme": "dilemme",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-066",
+    "question": "Raconte notre premier rendez-vous de ton point de vue. Qu'est-ce que tu ne m'as jamais dit sur ce soir-là ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-067",
+    "question": "À quel moment exact as-tu su que tu voulais me revoir ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-068",
+    "question": "Quel moment de notre histoire aimerais-tu revivre à l'identique ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-069",
+    "question": "Quelle galère commune nous fait rire aujourd'hui ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-070",
+    "question": "Quelle dispute entre nous t'a fait grandir ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-071",
+    "question": "Raconte notre plus gros fou rire.",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-072",
+    "question": "Quel plat raté nous raconterons encore dans 20 ans ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-073",
+    "question": "Raconte la fois où tu as eu honte de moi (pour rire).",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-074",
+    "question": "Quel moment de notre histoire a été le plus dur pour toi ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-075",
+    "question": "Quelle est la chose la plus folle qu'on ait faite ensemble ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-076",
+    "question": "Quel est le plus beau cadeau que je t'aie fait… et le pire ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-077",
+    "question": "Quelle est notre plus belle réconciliation ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-078",
+    "question": "Débat : qui a fait le premier pas ? Chacun.e plaide sa version.",
+    "forme": "defi",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-079",
+    "question": "En 30 secondes : raconte notre histoire comme une bande-annonce de film.",
+    "forme": "defi",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-080",
+    "question": "Qu'est-ce qui t'a fait dire, à un moment, « c'est elle » ou « c'est lui » ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-081",
+    "question": "Quand as-tu pleuré pour la dernière fois, et pourquoi ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-082",
+    "question": "On gagne au loto demain : quelle est la première folie… et la première dispute ?",
+    "forme": "scenario",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-083",
+    "question": "On plaque tout pour vivre un an à l'étranger : où va-t-on ?",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-084",
+    "question": "Si on s'était rencontré.e.s à 16 ans, ça aurait marché ?",
+    "forme": "scenario",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-085",
+    "question": "Si notre couple était un film, quel en serait le genre et le titre ?",
+    "forme": "portrait",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-086",
+    "question": "On échange nos corps pendant 24h. Que fais-tu en premier ?",
+    "forme": "scenario",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-087",
+    "question": "On forme un duo de cambrioleurs : qui est le cerveau, qui fait la diversion ?",
+    "forme": "designer",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-088",
+    "question": "Préférerais-tu qu'on n'ait plus aucun secret, ou que chacun.e garde un jardin secret ?",
+    "forme": "dilemme",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-089",
+    "question": "Préférerais-tu lire tous mes anciens messages avec mes ex, ou que je lise les tiens ?",
+    "forme": "dilemme",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-090",
+    "question": "Si tu pouvais savoir dès maintenant si on sera encore ensemble dans 20 ans, voudrais-tu savoir ?",
+    "forme": "dilemme",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-091",
+    "question": "On participe à un jeu télé en couple : lequel, et qui craque en premier ?",
+    "forme": "designer",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-092",
+    "question": "Tu peux assister à une seule journée de mon enfance. Laquelle choisis-tu ?",
+    "forme": "scenario",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-093",
+    "question": "Un an dans un studio de 20 m² : qui survit ?",
+    "forme": "designer",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-094",
+    "question": "Préférerais-tu un week-end sans téléphone ou un week-end sans se parler ?",
+    "forme": "dilemme",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-095",
+    "question": "Si on devait adopter un animal improbable, lequel ?",
+    "forme": "scenario",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "couple-096",
+    "question": "On peut se téléporter ce soir n'importe où pour dîner. Où va-t-on ?",
+    "forme": "scenario",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-097",
+    "question": "Si demain je voulais tout plaquer pour changer de vie, comment réagirais-tu ?",
+    "forme": "scenario",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-098",
+    "question": "Si on écrivait nos vœux de mariage ce soir, quelle serait ta première phrase ?",
+    "forme": "scenario",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-099",
+    "question": "Préférerais-tu passer Noël chez tes parents ou chez les miens pour les dix prochaines années ?",
+    "forme": "dilemme",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-100",
+    "question": "Si on ne pouvait plus jamais se dire « je t'aime », comment me le montrerais-tu ?",
+    "forme": "scenario",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-101",
+    "question": "Préférerais-tu une soirée canapé-série ou une soirée improvisée jusqu'à l'aube ?",
+    "forme": "dilemme",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-102",
+    "question": "Préférerais-tu qu'on gagne un concours de danse ou de cuisine ?",
+    "forme": "dilemme",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-103",
+    "question": "Préférerais-tu vivre à la campagne avec dix animaux ou en plein centre-ville sans voiture ?",
+    "forme": "dilemme",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-104",
+    "question": "Que ferais-tu si j'oubliais notre anniversaire ?",
+    "forme": "scenario",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-105",
+    "question": "Qu'est-ce que tu m'as caché au début de notre histoire ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-106",
+    "question": "As-tu déjà regardé mon téléphone sans me le dire ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-107",
+    "question": "Quelle dépense m'as-tu cachée ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-108",
+    "question": "Quel mensonge m'as-tu servi pour éviter une soirée avec mes ami.e.s ou ma famille ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-109",
+    "question": "As-tu déjà stalké un.e de mes ex ? Jusqu'où es-tu allé.e ?",
+    "forme": "aveu",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-110",
+    "question": "Qu'as-tu déjà dit de moi à tes ami.e.s que je ne dois pas savoir ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-111",
+    "question": "As-tu déjà eu le béguin pour quelqu'un alors qu'on était ensemble ?",
+    "forme": "aveu",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 4,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-112",
+    "question": "Que fais-tu quand je ne suis pas là, et que tu ne fais jamais devant moi ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-113",
+    "question": "As-tu déjà mangé un truc qui m'appartenait en faisant comme si de rien n'était ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-114",
+    "question": "Y a-t-il une règle de notre couple que tu enfreins en douce ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-115",
+    "question": "Quel trait de ton ex ne voudrais-tu surtout pas retrouver chez moi ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-116",
+    "question": "Ton ex t'écrit ce soir. Est-ce que tu me le dis ?",
+    "forme": "scenario",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-117",
+    "question": "Quelle est ta limite en matière de fidélité ? Où commence la tromperie ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-118",
+    "question": "Que penses-tu vraiment de ma famille ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-119",
+    "question": "Qu'est-ce qui t'a donné envie de m'embrasser la première fois ?",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-120",
+    "question": "Quel est le baiser parfait, selon toi ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-121",
+    "question": "Quel geste de ma part te fait instantanément de l'effet ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-122",
+    "question": "Quel fantasme n'as-tu jamais osé me dire ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-123",
+    "question": "Qu'aimerais-tu que je fasse plus souvent au lit ?",
+    "forme": "demande",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-124",
+    "question": "Qu'est-ce que je fais d'excitant sans m'en rendre compte ?",
+    "forme": "deviner",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-125",
+    "question": "Lumière allumée ou éteinte ? Explique-toi.",
+    "forme": "dilemme",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-126",
+    "question": "Quel est ton souvenir le plus torride avec moi ?",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-127",
+    "question": "Raconte la fois où on a failli se faire surprendre.",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-128",
+    "question": "Où aimerais-tu qu'on fasse l'amour au moins une fois ?",
+    "forme": "demande",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-129",
+    "question": "Quel est ton moment préféré de la journée pour faire l'amour ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-130",
+    "question": "Qu'est-ce qui t'aide à te sentir assez en confiance pour te lâcher complètement ?",
+    "forme": "demande",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 4,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-131",
+    "question": "Y a-t-il quelque chose qu'on faisait au début et qui te manque ?",
+    "forme": "demande",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 4,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-132",
+    "question": "Te sens-tu toujours libre de me dire « pas ce soir » ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 3,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-133",
+    "question": "As-tu déjà simulé avec moi ? Sans rancune, promis.",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-134",
+    "question": "Quel accessoire ou quel jeu aimerais-tu qu'on essaie ?",
+    "forme": "demande",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-135",
+    "question": "Écris-moi maintenant le message que tu m'enverrais pour me faire rentrer plus tôt du travail.",
+    "forme": "defi",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-136",
+    "question": "On a 10 minutes seul.e.s dans un ascenseur. Que se passe-t-il ?",
+    "forme": "scenario",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-137",
+    "question": "Quelle partie de mon corps préfères-tu embrasser ?",
+    "forme": "deviner",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-138",
+    "question": "Complète : « Quand tu…, ça me donne envie de toi. »",
+    "forme": "deviner",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-139",
+    "question": "Douche ou bain à deux ? Défends ton choix.",
+    "forme": "dilemme",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-140",
+    "question": "Quelle tenue aimerais-tu me voir porter plus souvent ?",
+    "forme": "demande",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-141",
+    "question": "Le sexe programmé dans l'agenda : tue-l'amour, ou secret des couples qui durent ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-142",
+    "question": "Quel compliment aimerais-tu entendre pendant l'amour ?",
+    "forme": "demande",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-143",
+    "question": "Qu'est-ce qui a changé dans ton désir depuis le début de notre histoire ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 4,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-144",
+    "question": "Fessées, menottes, yeux bandés : curiosité, envie, ou hors de question ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-145",
+    "question": "Quelle est la pire excuse que tu m'aies donnée pour éviter de faire l'amour ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-146",
+    "question": "Si j'avais les yeux bandés, que me ferais-tu ?",
+    "forme": "scenario",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-147",
+    "question": "Quel est ton plus gros moment de gêne au lit, avec moi ou avant ?",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-148",
+    "question": "Préfères-tu qu'on prenne notre temps ou qu'on aille droit au but ?",
+    "forme": "dilemme",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-149",
+    "question": "Quel mot ou quel son venant de moi t'excite le plus ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-150",
+    "question": "Quelle est la chose la plus sensuelle qu'on puisse faire sans se toucher ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-151",
+    "question": "Quel film ou quelle série t'a déjà donné des idées ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-152",
+    "question": "Notre vie sexuelle en un mot ? Et en quel mot aimerais-tu qu'elle se transforme ?",
+    "forme": "portrait",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-153",
+    "question": "Quelle zone sensible, que peu de gens connaissent, aimerais-tu que j'explore ?",
+    "forme": "demande",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 4,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-154",
+    "question": "Que penses-tu de l'idée de se filmer ou de se photographier ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-155",
+    "question": "Plan à trois : jamais, pourquoi pas, ou on en parle sérieusement ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-156",
+    "question": "Quelle est la chose la plus audacieuse que tu aies faite au lit ?",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-157",
+    "question": "Préférerais-tu des préliminaires d'une heure ou une étreinte passionnée de cinq minutes ?",
+    "forme": "dilemme",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-158",
+    "question": "Préférerais-tu un strip-tease de ma part ou un massage sans fin ?",
+    "forme": "dilemme",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-159",
+    "question": "D'après toi, quelle célébrité me ferait perdre tous mes moyens ?",
+    "forme": "deviner",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-160",
+    "question": "Qu'est-ce qui te fait te sentir le plus aimé.e : les mots, les gestes, les cadeaux, le temps passé ou le contact ?",
+    "forme": "dilemme",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-161",
+    "question": "Quel petit geste quotidien compte le plus pour toi ?",
+    "forme": "demande",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-162",
+    "question": "Qu'est-ce qu'on fait mieux que la plupart des couples ?",
+    "forme": "opinion",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-163",
+    "question": "Et qu'est-ce qu'on fait moins bien que la plupart des couples ?",
+    "forme": "opinion",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-164",
+    "question": "Quelle dispute avons-nous en boucle, et que dit-elle vraiment de nous ?",
+    "forme": "opinion",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 3,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-165",
+    "question": "Quand te sens-tu loin de moi, même quand je suis là ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-166",
+    "question": "Quelle promesse aimerais-tu qu'on se fasse ce soir ?",
+    "forme": "demande",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-167",
+    "question": "Quel est notre « truc » que personne d'autre ne comprend ?",
+    "forme": "opinion",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-168",
+    "question": "Qui de nous deux est le.la plus têtu.e ? Preuves à l'appui.",
+    "forme": "designer",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-169",
+    "question": "Qui de nous deux survivrait le plus longtemps seul.e sur une île déserte ?",
+    "forme": "designer",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-170",
+    "question": "Qu'est-ce qui pourrait nous séparer, selon toi ?",
+    "forme": "opinion",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 3,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-171",
+    "question": "À quoi vois-tu que notre relation va bien ?",
+    "forme": "opinion",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-172",
+    "question": "Qu'est-ce que tu n'as pas osé me demander depuis longtemps ?",
+    "forme": "demande",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-173",
+    "question": "Quel conseil donnerais-tu à un couple qui commence ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-174",
+    "question": "Quelle est la plus grande force de notre couple ?",
+    "forme": "opinion",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-175",
+    "question": "Quel rituel aimerais-tu qu'on garde toute notre vie ?",
+    "forme": "demande",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-176",
+    "question": "Qu'attends-tu d'une relation que tu n'as jamais eu avant ?",
+    "forme": "demande",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-177",
+    "question": "La jalousie : preuve d'amour ou poison ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-178",
+    "question": "Que penses-tu des couples qui partagent tout, même leurs mots de passe ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-179",
+    "question": "Quelle tâche ménagère me laisserais-tu faire à vie ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-180",
+    "question": "Qu'est-ce qui t'agace chez moi mais que tu trouves secrètement mignon ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-181",
+    "question": "Si on rédigeait le règlement intérieur de notre couple, quel serait l'article 1 ?",
+    "forme": "scenario",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-182",
+    "question": "Quand as-tu été le plus fier.e d'être avec moi ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-183",
+    "question": "Qu'est-ce qui te rassure quand on se dispute ?",
+    "forme": "demande",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-184",
+    "question": "Qui de nous deux est le.la plus romantique ? Et le.la plus de mauvaise foi ?",
+    "forme": "designer",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-185",
+    "question": "Qu'est-ce qui t'a fait peur au début de notre relation ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-186",
+    "question": "Quel est notre hymne de couple ? Fredonne-le.",
+    "forme": "defi",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-187",
+    "question": "Qu'aimerais-tu qu'on fasse plus souvent, juste tous les deux ?",
+    "forme": "demande",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-188",
+    "question": "Si notre couple était un plat, ce serait lequel ?",
+    "forme": "portrait",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-189",
+    "question": "Qu'est-ce qui te manquerait le plus si on se séparait ?",
+    "forme": "scenario",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-190",
+    "question": "Quel est le pire surnom que tu pourrais me donner ?",
+    "forme": "portrait",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-191",
+    "question": "Battle : chacun.e cite un truc que l'autre fait mieux. Le premier qui sèche a perdu.",
+    "forme": "defi",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-192",
+    "question": "Qu'as-tu appris sur l'amour que personne ne t'a jamais enseigné ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-193",
+    "question": "Quand t'es-tu senti.e le plus vulnérable avec moi ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-194",
+    "question": "Qu'aimerais-tu que je comprenne enfin chez toi ?",
+    "forme": "demande",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-195",
+    "question": "Quel moment de la journée préfères-tu passer avec moi ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-196",
+    "question": "D'après toi, quelle est ma plus grande peur ?",
+    "forme": "deviner",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-197",
+    "question": "Que vois-tu en moi que je ne vois pas ?",
+    "forme": "deviner",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-198",
+    "question": "Quelle imitation de moi ferais-tu pour faire rire nos ami.e.s ? Montre.",
+    "forme": "defi",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-199",
+    "question": "Imite-moi quand j'ai faim.",
+    "forme": "defi",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-200",
+    "question": "D'après toi, qu'est-ce que je n'ose pas te demander ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-201",
+    "question": "Quelle expression est-ce que j'emploie sans arrêt ?",
+    "forme": "deviner",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-202",
+    "question": "Quel est mon tic quand je suis nerveux.se ?",
+    "forme": "deviner",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-203",
+    "question": "D'après toi, quel est mon plus grand rêve ?",
+    "forme": "deviner",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-204",
+    "question": "Comment sais-tu que je vais mal, même quand je dis que tout va bien ?",
+    "forme": "deviner",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-205",
+    "question": "Quelle est ma pire habitude au lit (pour dormir !) ?",
+    "forme": "deviner",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-206",
+    "question": "Quel défaut chez moi as-tu fini par aimer ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-207",
+    "question": "Qu'as-tu pensé de moi la toute première fois, honnêtement ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-208",
+    "question": "Quel détail chez moi te fait craquer à chaque fois ?",
+    "forme": "deviner",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-209",
+    "question": "Si j'étais une saveur de glace, laquelle serais-je ?",
+    "forme": "portrait",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-210",
+    "question": "Quel aurait été mon métier au Moyen Âge ?",
+    "forme": "portrait",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-211",
+    "question": "D'après toi, que penserait de moi l'enfant que j'étais ?",
+    "forme": "deviner",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-212",
+    "question": "En quoi ai-je changé depuis qu'on est ensemble ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-213",
+    "question": "Qu'est-ce que je fais différemment avec toi qu'avec les autres ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-214",
+    "question": "Quel est mon plus grand talent caché ?",
+    "forme": "deviner",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-215",
+    "question": "Qu'est-ce que tu remarques chez moi quand on est en soirée avec d'autres ?",
+    "forme": "deviner",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-216",
+    "question": "Quelle tête je fais quand je mens ? Imite-la.",
+    "forme": "defi",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-217",
+    "question": "Montre-moi la photo de moi que tu préfères… et celle que tu n'as pas le droit de montrer.",
+    "forme": "defi",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-218",
+    "question": "D'après toi, que répondrais-je à « qui de nous deux a le plus mauvais caractère » ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-219",
+    "question": "Qu'est-ce que tes parents t'ont appris sur l'amour, en bien ou en mal ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-220",
+    "question": "Lequel de mes ami.e.s préfères-tu, et lequel t'agace un peu ?",
+    "forme": "designer",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-221",
+    "question": "Comment ta famille exprimait-elle l'amour quand tu étais petit.e ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-222",
+    "question": "Que veux-tu absolument reproduire de ta famille, et éviter à tout prix ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-223",
+    "question": "Quelle histoire de famille ressort à chaque repas ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-224",
+    "question": "Quelle place tes ami.e.s ont-ils dans notre couple ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-225",
+    "question": "Qu'est-ce qui t'a le plus surpris.e la première fois que tu as rencontré ma famille ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-226",
+    "question": "Quel couple de ton entourage t'inspire, et lequel te sert de contre-exemple ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-227",
+    "question": "Quelle tradition familiale veux-tu qu'on garde, et laquelle on abandonne ?",
+    "forme": "demande",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-228",
+    "question": "Quelle relation familiale aimerais-tu réparer ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-229",
+    "question": "As-tu déjà été jaloux.se d'un.e de mes ami.e.s ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-230",
+    "question": "De quoi as-tu besoin quand tu es triste : qu'on parle, qu'on se taise, qu'on sorte ?",
+    "forme": "demande",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-231",
+    "question": "Quand t'es-tu senti.e incompris.e par moi pour la dernière fois ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 3,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-232",
+    "question": "Quand as-tu été le plus heureux.se cette année ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-233",
+    "question": "Y a-t-il une blessure du passé qui te suit encore aujourd'hui ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-234",
+    "question": "Comment évacues-tu ta colère, et comment voudrais-tu que je réagisse ?",
+    "forme": "demande",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-235",
+    "question": "Quelle émotion as-tu le plus de mal à exprimer devant moi ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-236",
+    "question": "Qu'est-ce qui te fait sourire quand tu penses à moi dans la journée ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-237",
+    "question": "Qu'as-tu appris sur toi-même depuis qu'on est ensemble ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "couple-238",
+    "question": "Qu'est-ce que tu ne pourrais jamais pardonner ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-239",
+    "question": "Qu'as-tu du mal à accepter chez toi ?",
+    "forme": "aveu",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-240",
+    "question": "Si tu pouvais changer un trait de ton caractère, lequel ?",
+    "forme": "scenario",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-241",
+    "question": "Te sens-tu parfois imposteur.e ? Dans quelles situations ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-242",
+    "question": "Sur quoi as-tu changé d'avis grâce à moi ?",
+    "forme": "recit",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-243",
+    "question": "Sur quel sujet ne tomberons-nous jamais d'accord ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-244",
+    "question": "Décris un dimanche matin ordinaire dans 30 ans.",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-245",
+    "question": "Quel est notre prochain grand projet ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-246",
+    "question": "Quelle aventure veux-tu qu'on vive avant nos 60 ans ?",
+    "forme": "demande",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-247",
+    "question": "Veux-tu des enfants ? Pourquoi ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "couple-248",
+    "question": "Quel parent aimerais-tu être, et lequel ne veux-tu surtout pas être ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-249",
+    "question": "Comment puis-je t'aider dans ton projet le plus important en ce moment ?",
+    "forme": "demande",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-250",
+    "question": "Quel défi pourrait-on se lancer à deux cette année ?",
+    "forme": "demande",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-251",
+    "question": "Quelle compétence aimerais-tu qu'on apprenne ensemble ?",
+    "forme": "demande",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-252",
+    "question": "Comment imagines-tu notre vieillesse ?",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "couple-253",
+    "question": "Si on ouvrait un commerce ensemble, ce serait quoi, et qui gère quoi ?",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "couple-254",
+    "question": "Quel pays veux-tu absolument découvrir avec moi ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  }
+]

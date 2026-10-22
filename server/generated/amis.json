@@ -1,0 +1,3369 @@
+[
+  {
+    "id": "amis-001",
+    "question": "Quelle est la punition la plus injuste que tu aies reçue enfant… et étais-tu vraiment innocent.e ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-002",
+    "question": "Quel objet de ta chambre d'ado révélait le plus qui tu étais à l'époque ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-003",
+    "question": "Raconte la fois où un.e parfait.e inconnu.e t'a sauvé la mise.",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-004",
+    "question": "Quel prof a changé ta trajectoire, en bien ou en mal ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-005",
+    "question": "Quelle honte te fait encore rougir quand tu y repenses à 3h du matin ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-006",
+    "question": "Quel a été ton tout premier job, et quelle est la chose la plus absurde que tu y aies vue ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-007",
+    "question": "Raconte ton pire réveillon du Nouvel An.",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-008",
+    "question": "Quel est ton fou rire au pire moment possible : enterrement, examen, réunion… ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-009",
+    "question": "Décris dans le détail ton look le plus assumé au collège.",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-010",
+    "question": "Quelle est la rumeur la plus folle qui ait circulé sur toi ? Était-elle vraie ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-011",
+    "question": "Raconte la fois où tu as cru mourir… alors que ce n'était vraiment pas grave.",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-012",
+    "question": "Quel souvenir d'enfance n'as-tu compris qu'une fois adulte ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-013",
+    "question": "Quel jour de ta vie aimerais-tu revoir filmé en caméra cachée ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-014",
+    "question": "À quel moment t'es-tu senti.e libre pour la première fois ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-015",
+    "question": "Quel est le souvenir le plus net que tu gardes de tes grands-parents ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-016",
+    "question": "Quelle anecdote de voyage racontes-tu toujours en soirée, en l'embellissant un peu plus à chaque fois ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-017",
+    "question": "Quel acte de courage as-tu accompli sans que personne ne le sache ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-018",
+    "question": "Raconte notre première rencontre de ton point de vue. Qu'as-tu vraiment pensé de moi ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-019",
+    "question": "Quelle soirée entre nous ne devra jamais arriver aux oreilles de nos parents ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-020",
+    "question": "Quel souvenir commun racontons-nous différemment, toi et moi ? Qui a raison ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-021",
+    "question": "Quel est ton plus grand moment de solitude en public ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-022",
+    "question": "Quelle théorie complètement fausse sur le monde as-tu crue jusqu'à un âge gênant ?",
+    "forme": "aveu",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-023",
+    "question": "Raconte ton premier baiser, sans rien épargner.",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-024",
+    "question": "Quel est le meilleur conseil qu'on t'ait donné et que tu n'as pas suivi ?",
+    "forme": "recit",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-025",
+    "question": "Quel était ton métier de rêve à 8 ans, et qu'en reste-t-il aujourd'hui ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-026",
+    "question": "Dans quel lieu de ton enfance aimerais-tu retourner une heure, juste pour voir ?",
+    "forme": "scenario",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-027",
+    "question": "Montre la dernière photo de ta galerie et raconte son histoire.",
+    "forme": "defi",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-028",
+    "question": "Raconte deux vérités et un mensonge sur toi. Les autres doivent trouver l'intrus.",
+    "forme": "defi",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-029",
+    "question": "Quelle est l'histoire la plus improbable qui te soit arrivée ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-030",
+    "question": "Quel est le pire cadeau que tu aies reçu, et as-tu fait semblant de l'adorer ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-031",
+    "question": "Quelle réplique de film ou de série places-tu dès que tu peux ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-032",
+    "question": "Quel objet gardes-tu depuis des années sans pouvoir t'en séparer ? Pourquoi ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-033",
+    "question": "Raconte ton plus grand moment de gloire, même minuscule.",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-034",
+    "question": "Qu'as-tu fait pour la première fois récemment ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-035",
+    "question": "Quel est le meilleur moment qu'on ait vécu ensemble, selon toi ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-036",
+    "question": "Quel moment entre nous t'a fait comprendre qu'on serait ami.e.s pour longtemps ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-037",
+    "question": "Si on ne devait garder qu'un seul souvenir commun, lequel sauverais-tu ?",
+    "forme": "dilemme",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-038",
+    "question": "Quelle est la chose la plus folle qu'on ait faite ensemble ?",
+    "forme": "recit",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-039",
+    "question": "Quel est le pire endroit où tu te sois endormi.e après une soirée ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-040",
+    "question": "Quel est l'achat le plus absurde que tu aies fait à 3h du matin ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-041",
+    "question": "Quel est le pire conseil que tu aies donné… et que la personne a suivi ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-042",
+    "question": "Quelle est la plus grosse prise de risque de ta vie ? Tu la referais ?",
+    "forme": "recit",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-043",
+    "question": "Quelle bêtise as-tu faite pour impressionner quelqu'un qui te plaisait ?",
+    "forme": "aveu",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-044",
+    "question": "Préférerais-tu connaître la date de ta mort ou sa cause ?",
+    "forme": "dilemme",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-045",
+    "question": "On t'offre 10 millions d'euros, mais tu ne pourras plus jamais parler à ton.ta meilleur.e ami.e. Tu acceptes ?",
+    "forme": "dilemme",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-046",
+    "question": "Un bouton efface tous tes souvenirs d'une seule personne. Sur qui appuies-tu ?",
+    "forme": "scenario",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-047",
+    "question": "Tu dois disparaître et refaire ta vie : quel pays, quel métier, quel nouveau prénom ?",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-048",
+    "question": "Tu peux obtenir la réponse exacte à une seule question. Laquelle poses-tu ?",
+    "forme": "scenario",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-049",
+    "question": "Préférerais-tu que tout le monde entende tes pensées pendant une heure, ou lire à voix haute tes 50 derniers messages ?",
+    "forme": "dilemme",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-050",
+    "question": "Combattre un canard de la taille d'un cheval ou cent chevaux de la taille d'un canard ? Expose ta stratégie.",
+    "forme": "dilemme",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-051",
+    "question": "Apocalypse zombie : qui ici survit le plus longtemps, et qui se fait mordre en premier ?",
+    "forme": "designer",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-052",
+    "question": "On monte un casse : quel rôle donnes-tu à chacun.e autour de la table ?",
+    "forme": "designer",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-053",
+    "question": "Tu peux vivre un an à n'importe quelle époque. Laquelle, et qu'est-ce qui te manquerait le plus ?",
+    "forme": "scenario",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-054",
+    "question": "Si ta vie était une série, à quelle saison en serais-tu, et quel serait le titre de l'épisode actuel ?",
+    "forme": "portrait",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-055",
+    "question": "Tu dois rayer un plat de la gastronomie française pour toujours. Lequel sacrifies-tu ?",
+    "forme": "dilemme",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-056",
+    "question": "Préférerais-tu être très drôle mais jamais pris.e au sérieux, ou très respecté.e mais jamais drôle ?",
+    "forme": "dilemme",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-057",
+    "question": "Une pilule te permet de ne plus jamais dormir, sans aucune fatigue. Tu la prends ?",
+    "forme": "dilemme",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-058",
+    "question": "24h d'invisibilité : honnêtement, quelle est la première chose que tu fais ?",
+    "forme": "scenario",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-059",
+    "question": "Tu peux lire les pensées d'une personne de ton entourage pendant un jour. Qui choisis-tu… et qui surtout pas ?",
+    "forme": "scenario",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-060",
+    "question": "Préférerais-tu revivre tes 15 ans avec ton cerveau actuel, ou avoir 70 ans demain avec toutes tes économies ?",
+    "forme": "dilemme",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-061",
+    "question": "Si tu animais une émission de télé, quel en serait le concept ?",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-062",
+    "question": "Président.e pour une journée : quelle loi absurde fais-tu passer ?",
+    "forme": "scenario",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-063",
+    "question": "Pourrais-tu entendre tout ce que tes ex disent de toi ? Tu voudrais savoir ?",
+    "forme": "dilemme",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-064",
+    "question": "Tu peux envoyer un SMS à toi-même d'il y a dix ans. Que dit-il ?",
+    "forme": "scenario",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-065",
+    "question": "On t'offre une vie parfaite, mais dans une simulation dont tu ne te souviendras pas. Tu signes ?",
+    "forme": "dilemme",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-066",
+    "question": "Si tu étais un plat, lequel serais-tu et pourquoi ?",
+    "forme": "portrait",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-067",
+    "question": "On devient colocataires pendant un an : qui craque en premier, et pour quelle raison ?",
+    "forme": "designer",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-068",
+    "question": "Préférerais-tu ne plus jamais pouvoir mentir, ou que tout le monde te mente sans que tu le saches ?",
+    "forme": "dilemme",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-069",
+    "question": "Tu dois choisir quelqu'un ici pour partager ta cellule pendant un an. Qui, et pourquoi ?",
+    "forme": "designer",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-070",
+    "question": "Tu gagnes au loto demain : à qui le dis-tu… et à qui surtout pas ?",
+    "forme": "scenario",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-071",
+    "question": "Si on vivait dans un téléfilm de Noël, quel rôle aurait chacun.e ici ?",
+    "forme": "designer",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-072",
+    "question": "Préférerais-tu vivre sans fromage ou sans vin pour toujours ?",
+    "forme": "dilemme",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-073",
+    "question": "Préférerais-tu être coincé.e en vacances avec ton ex ou avec ton.ta patron.ne ?",
+    "forme": "dilemme",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-074",
+    "question": "Préférerais-tu avoir toujours 5 minutes de retard ou toujours 20 minutes d'avance ?",
+    "forme": "dilemme",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-075",
+    "question": "Préférerais-tu savoir ce que tes ami.e.s pensent vraiment de toi, ou ne jamais le savoir ?",
+    "forme": "dilemme",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-076",
+    "question": "Préférerais-tu perdre tous tes souvenirs d'enfance ou ceux des cinq dernières années ?",
+    "forme": "dilemme",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-077",
+    "question": "Préférerais-tu une vie longue et tranquille ou courte et intense ?",
+    "forme": "dilemme",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-078",
+    "question": "Préférerais-tu tout dire en chantant ou ne parler qu'en rimes pendant une semaine ? Démonstration.",
+    "forme": "dilemme",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-079",
+    "question": "Tu dois vivre un mois chez les parents de quelqu'un ici. Qui choisis-tu ?",
+    "forme": "designer",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-080",
+    "question": "Enfermé.e 24h dans un ascenseur : avec qui ici ? Et avec qui surtout pas ?",
+    "forme": "designer",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-081",
+    "question": "Si ton animal de compagnie pouvait parler, quel secret sur toi révélerait-il ?",
+    "forme": "scenario",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-082",
+    "question": "Tu passes une soirée avec toi-même à 16 ans. Que lui dis-tu ? Que lui caches-tu ?",
+    "forme": "scenario",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-083",
+    "question": "Si tu devais coucher avec une célébrité pour sauver l'humanité, qui serait l'heureux.se élu.e ?",
+    "forme": "scenario",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-084",
+    "question": "Quelle règle enfreins-tu le plus souvent, sans la moindre culpabilité ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-085",
+    "question": "Quel mensonge entretiens-tu depuis si longtemps qu'il est trop tard pour avouer ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-086",
+    "question": "As-tu déjà lu les messages de quelqu'un en cachette ? Qu'as-tu découvert ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-087",
+    "question": "Quelle est la chose la plus illégale que tu aies faite… et qui est désormais prescrite ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 5,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-088",
+    "question": "Quelle est la pire excuse que tu aies inventée pour annuler une soirée ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-089",
+    "question": "Qui fais-tu semblant d'apprécier ? Pas de nom, juste le contexte.",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-090",
+    "question": "Quel secret d'un.e ami.e as-tu déjà répété ? Avoue.",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-091",
+    "question": "Je n'ai jamais… : complète avec un truc que tu penses être le.la seul.e ici à avoir fait.",
+    "forme": "defi",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-092",
+    "question": "T'es-tu déjà fait virer d'un endroit ? Raconte comment ça a dégénéré.",
+    "forme": "recit",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-093",
+    "question": "Quelle est la vengeance la plus mesquine que tu aies jamais exécutée ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-094",
+    "question": "Qu'as-tu déjà volé, même tout petit, et le referais-tu ?",
+    "forme": "aveu",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-095",
+    "question": "Quelle est la pire chose que tu aies faite sous l'effet de l'alcool ?",
+    "forme": "recit",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-096",
+    "question": "As-tu déjà menti à quelqu'un dans cette pièce ? Sur quoi ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-097",
+    "question": "Quelle drogue as-tu déjà essayée — ou qu'est-ce qui t'en a toujours tenu.e éloigné.e ?",
+    "forme": "opinion",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-098",
+    "question": "Si tu étais sûr.e de ne jamais te faire prendre, quelle règle enfreindrais-tu dès demain ?",
+    "forme": "scenario",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-099",
+    "question": "Quelle est la plus grosse arnaque dans laquelle tu sois tombé.e ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-100",
+    "question": "Quelle est la pire chose que tu aies dite sur quelqu'un dans son dos ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-101",
+    "question": "Quel avis gardes-tu pour toi en soirée pour éviter le malaise ?",
+    "forme": "aveu",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-102",
+    "question": "Quel est le mensonge que tu racontes le plus souvent ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-103",
+    "question": "Lis à voix haute le dernier message que tu as envoyé (si tu l'oses) et explique le contexte.",
+    "forme": "defi",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-104",
+    "question": "Quelle appli dévore ton temps d'écran ? Montre la statistique.",
+    "forme": "defi",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-105",
+    "question": "Quel est ton plaisir coupable, celui que tu caches à tout le monde ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-106",
+    "question": "As-tu déjà fait semblant de ne pas voir quelqu'un dans la rue ? Qui ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-107",
+    "question": "Qu'est-ce que tu n'avouerais jamais à tes parents ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-108",
+    "question": "Qu'est-ce que tu me caches depuis des années ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-109",
+    "question": "Qui ici est le.la plus susceptible de finir en garde à vue pour une raison absurde ?",
+    "forme": "designer",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-110",
+    "question": "Quelle est la pire phrase de drague qu'on t'ait sortie… ou que tu aies osé sortir ?",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-111",
+    "question": "Raconte ton pire rendez-vous issu d'une appli.",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-112",
+    "question": "Qu'est-ce qui te fait instantanément perdre tout désir chez quelqu'un ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-113",
+    "question": "Quel est l'endroit le plus improbable où tu aies fait l'amour ?",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-114",
+    "question": "As-tu déjà eu un crush sur quelqu'un ici ? Oui ou non, sans donner de nom.",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 4,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-115",
+    "question": "Pour quelle célébrité quitterais-tu tout sans réfléchir ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-116",
+    "question": "Quel fantasme n'as-tu jamais osé avouer à personne ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-117",
+    "question": "Quelle est ta plus grosse honte au lit ?",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-118",
+    "question": "Les relations libres : tu pourrais ? Pourquoi ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-119",
+    "question": "Ta première fois : si c'était à refaire, tu changerais quoi ?",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-120",
+    "question": "Qui ici a l'air le plus sage mais cache sûrement le plus de choses ?",
+    "forme": "designer",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-121",
+    "question": "Le sexe était-il tabou chez toi ? Comment as-tu découvert le sujet ?",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-122",
+    "question": "Quel détail physique te fait craquer à coup sûr ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-123",
+    "question": "As-tu déjà simulé ? Pourquoi ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 5,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-124",
+    "question": "Qu'as-tu appris sur toi-même grâce au sexe ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 4,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-125",
+    "question": "Ton historique de navigation privée fuite demain. Sur une échelle de 1 à 10, à quel point c'est grave ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 5,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-126",
+    "question": "Quel est le compliment le plus sensuel qu'on t'ait fait ?",
+    "forme": "recit",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-127",
+    "question": "Qu'est-ce qui te rend irrésistible, selon toi ?",
+    "forme": "opinion",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-128",
+    "question": "Un coup d'un soir : tu l'as déjà fait ? C'était à la hauteur ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-129",
+    "question": "Quel est ton crush de célébrité le plus inavouable ?",
+    "forme": "aveu",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-130",
+    "question": "Quelle partie de ton corps préfères-tu, et laquelle as-tu appris à aimer ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-131",
+    "question": "Le premier qui rougit perd : as-tu déjà fait un rêve érotique avec quelqu'un de totalement inattendu ?",
+    "forme": "defi",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 5,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-132",
+    "question": "Dans une autre vie, avec qui de ce groupe aurais-tu pu sortir ?",
+    "forme": "designer",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-133",
+    "question": "Combien de partenaires as-tu eu.e.s ? Tu peux mentir, mais la table vote.",
+    "forme": "defi",
+    "sujet": "sexualite",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 5,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-134",
+    "question": "Quel est ton red flag absolu chez un.e partenaire ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-135",
+    "question": "Et ton green flag, celui qui te fait fondre à coup sûr ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-136",
+    "question": "Quel est le plus gros râteau de ta vie ?",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-137",
+    "question": "Quelle rupture t'a le plus appris sur toi ?",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-138",
+    "question": "As-tu déjà été amoureux.se d'un.e ami.e ? L'a-t-il.elle su ?",
+    "forme": "aveu",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-139",
+    "question": "Ton ex t'écrit ce soir « tu me manques ». Que réponds-tu ?",
+    "forme": "scenario",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-140",
+    "question": "Choisis un.e célibataire de la table et dresse le portrait de son ou sa partenaire idéal.e.",
+    "forme": "designer",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-141",
+    "question": "Quel couple de ton entourage te fait rêver, et lequel te fait peur ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-142",
+    "question": "Peut-on aimer deux personnes en même temps ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-143",
+    "question": "Quel signe t'a fait comprendre qu'une histoire était finie ?",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-144",
+    "question": "Le premier rendez-vous idéal : où, combien de temps, et qui paie ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-145",
+    "question": "Quelle erreur amoureuse as-tu répétée plusieurs fois ?",
+    "forme": "aveu",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-146",
+    "question": "Pourrais-tu sortir avec l'ex d'un.e ami.e ? À quelles conditions ?",
+    "forme": "opinion",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-147",
+    "question": "Quel est le texto le plus gênant que tu aies envoyé à quelqu'un qui te plaisait ?",
+    "forme": "recit",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-148",
+    "question": "Le mariage : rêve, contrat ou vieille tradition ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-149",
+    "question": "Qui ici se mariera en premier ? Et qui jamais ?",
+    "forme": "designer",
+    "sujet": "amour",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-150",
+    "question": "Quel est le plus grand chagrin d'amour que tu aies vécu ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-151",
+    "question": "Quelle a été ta première impression de moi, et à quel point t'es-tu trompé.e ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-152",
+    "question": "Quel emoji me représente le mieux ?",
+    "forme": "portrait",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-153",
+    "question": "Qui ici a le plus de chances de devenir célèbre, et pour quelle raison absurde ?",
+    "forme": "designer",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-154",
+    "question": "Quel défaut me pardonnes-tu parce que tu m'aimes bien ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-155",
+    "question": "Qu'admires-tu chez moi sans jamais me l'avoir dit ?",
+    "forme": "deviner",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-156",
+    "question": "Si tu devais deviner mon mot de passe, tu essaierais quoi ?",
+    "forme": "deviner",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-157",
+    "question": "Quel personnage de série me ressemble le plus ?",
+    "forme": "portrait",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-158",
+    "question": "Qui ici serait le.la pire candidat.e dans une émission de survie ?",
+    "forme": "designer",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-159",
+    "question": "Que pensent les gens de toi au premier abord, et qui est complètement faux ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-160",
+    "question": "Quel mot tes proches utiliseraient-ils pour te décrire ? Es-tu d'accord ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-161",
+    "question": "Selon toi, qui ici a la vie la plus secrète ?",
+    "forme": "designer",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 4,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-162",
+    "question": "Si tu devais me présenter à quelqu'un en une phrase, que dirais-tu ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-163",
+    "question": "Quel conseil aimerais-tu me donner sans jamais avoir osé ?",
+    "forme": "deviner",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-164",
+    "question": "T'ai-je déjà déçu.e sans le savoir ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 3,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-165",
+    "question": "Imite quelqu'un ici. Les autres doivent deviner qui.",
+    "forme": "defi",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-166",
+    "question": "Quel talent ai-je, selon toi, que je n'exploite pas assez ?",
+    "forme": "deviner",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-167",
+    "question": "Si j'étais un animal, lequel serais-je ?",
+    "forme": "portrait",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-168",
+    "question": "Quelle qualité de quelqu'un ici aimerais-tu emprunter pendant une semaine ?",
+    "forme": "designer",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-169",
+    "question": "Comment sais-tu que je mens ?",
+    "forme": "deviner",
+    "sujet": "transgressions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-170",
+    "question": "En quoi ai-je changé depuis qu'on se connaît ?",
+    "forme": "deviner",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-171",
+    "question": "Qui ici répondrait au téléphone pendant son propre mariage ?",
+    "forme": "designer",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-172",
+    "question": "Qui ici est capable de partir vivre dans une cabane sans prévenir personne ?",
+    "forme": "designer",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-173",
+    "question": "Tu as 10 secondes : cite trois points communs avec la personne à ta droite.",
+    "forme": "defi",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-174",
+    "question": "Y a-t-il un truc que tu m'en veux encore un peu, même pour rire ?",
+    "forme": "aveu",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-175",
+    "question": "Selon toi, sur quoi est-ce que je me mens à moi-même ?",
+    "forme": "deviner",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 4,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-176",
+    "question": "Quelle question as-tu toujours voulu me poser ?",
+    "forme": "demande",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-177",
+    "question": "Quel sujet ne faut-il jamais aborder aux repas de famille chez toi ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-178",
+    "question": "Qui est le personnage le plus improbable de ta famille ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-179",
+    "question": "Qu'est-ce que tes parents ont fait de mieux, et de pire, dans ton éducation ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-180",
+    "question": "Quelle phrase de tes parents te surprends-tu à répéter ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-181",
+    "question": "Quelle amitié s'est éteinte sans que tu saches vraiment pourquoi ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-182",
+    "question": "Quel est ton rôle dans la bande : le parent, le chaos, le GPS, le psy… ?",
+    "forme": "portrait",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-183",
+    "question": "Quel secret de famille peux-tu enfin révéler ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 4,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-184",
+    "question": "Qui appelles-tu en premier quand ta vie s'écroule ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-185",
+    "question": "Qu'est-ce que tu ne pardonnerais jamais à un.e ami.e ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-186",
+    "question": "Es-tu plus proche de ta mère ou de ton père ? Pourquoi ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-187",
+    "question": "Quel drame familial te fait rire aujourd'hui ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-188",
+    "question": "Quel est le ou la collègue le plus mémorable que tu aies eu.e ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-189",
+    "question": "Y a-t-il quelqu'un à qui tu n'as jamais pu dire au revoir ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-190",
+    "question": "Qu'aimerais-tu dire à un membre de ta famille sans jamais oser ?",
+    "forme": "aveu",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-191",
+    "question": "Comment décrirais-tu notre amitié à quelqu'un qui ne nous connaît pas ?",
+    "forme": "opinion",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 5
+    }
+  },
+  {
+    "id": "amis-192",
+    "question": "Quelle tradition de Noël de ta famille trouves-tu complètement bizarre avec le recul ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-193",
+    "question": "Quel.le ami.e vois-tu le moins tout en le.la considérant comme l'un.e des plus proches ?",
+    "forme": "opinion",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-194",
+    "question": "À quel âge as-tu réalisé que tes parents étaient des humains comme les autres ?",
+    "forme": "recit",
+    "sujet": "entourage",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-195",
+    "question": "Qui t'a le plus blessé.e dans ta vie, et lui as-tu pardonné ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 3,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-196",
+    "question": "Qui aimerais-tu remercier sans l'avoir jamais fait ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-197",
+    "question": "Qu'est-ce qui te met en colère alors que tu sais que c'est irrationnel ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-198",
+    "question": "Quel film ou série t'a fait pleurer sans prévenir ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-199",
+    "question": "Quelle est ta peur la plus absurde ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-200",
+    "question": "Qu'est-ce qui te fait te sentir seul.e, même entouré.e ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-201",
+    "question": "Quel est ton rituel quand tout va mal ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-202",
+    "question": "Quand t'es-tu senti.e vraiment fier.e de toi pour la dernière fois ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-203",
+    "question": "Quelle chanson te met instantanément de bonne humeur ? Chante le refrain.",
+    "forme": "defi",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-204",
+    "question": "Quelle chanson te ferait pleurer si elle passait maintenant ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-205",
+    "question": "De quoi as-tu le plus besoin en ce moment, honnêtement ?",
+    "forme": "demande",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-206",
+    "question": "Quel petit bonheur personne ne comprend chez toi ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-207",
+    "question": "Qu'est-ce qui t'angoisse alors que les autres trouvent ça anodin ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-208",
+    "question": "Quelle émotion as-tu le plus de mal à montrer ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-209",
+    "question": "Quand as-tu ressenti ta plus grosse montée d'adrénaline ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 5,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-210",
+    "question": "Qu'est-ce qui te réconforte instantanément après une sale journée ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-211",
+    "question": "Y a-t-il une période de ta vie que tu ne voudrais jamais revivre ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-212",
+    "question": "Quelle est la chose la plus gentille qu'un.e inconnu.e ait faite pour toi ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-213",
+    "question": "Qu'est-ce qui te rend jaloux.se, même si tu ne l'avoues jamais ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 3,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-214",
+    "question": "Quand t'es-tu senti.e le plus vivant.e ces derniers mois ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-215",
+    "question": "Quand t'es-tu dit pour la dernière fois « je ne suis pas à la hauteur » ?",
+    "forme": "recit",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-216",
+    "question": "Quel avis impopulaire défends-tu, même seul.e contre tous ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 3,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-217",
+    "question": "Sur quoi as-tu changé d'avis récemment ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-218",
+    "question": "Quelle est ta plus grande contradiction ?",
+    "forme": "aveu",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-219",
+    "question": "Qu'est-ce que tu n'oses pas encore t'avouer ?",
+    "forme": "aveu",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 5,
+      "piquant": 3,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-220",
+    "question": "Qu'est-ce qui définit une vie réussie, selon toi ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-221",
+    "question": "Quel compliment as-tu du mal à accepter ?",
+    "forme": "aveu",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-222",
+    "question": "Qu'est-ce qui te ferait dire, à 80 ans, que tu as bien vécu ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-223",
+    "question": "Quel écart y a-t-il entre la personne que tu montres et celle que tu es ?",
+    "forme": "aveu",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-224",
+    "question": "Les gens peuvent-ils vraiment changer ? Donne un exemple.",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-225",
+    "question": "Quelle croyance de ton enfance as-tu abandonnée ?",
+    "forme": "recit",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-226",
+    "question": "Si tu n'avais qu'une leçon de vie à transmettre, laquelle ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-227",
+    "question": "Pardonnes-tu vite ou gardes-tu rancune ? Exemple à l'appui.",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-228",
+    "question": "Sur quoi gaspilles-tu le plus de temps ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 4,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-229",
+    "question": "Qu'as-tu le plus peur de rater dans ta vie ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-230",
+    "question": "Quelle valeur héritée de ta famille as-tu rejetée ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-231",
+    "question": "Quel est le meilleur argent que tu aies jamais dépensé ?",
+    "forme": "recit",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-232",
+    "question": "Crois-tu au destin ? Qu'est-ce qui t'en a convaincu.e… ou pas ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-233",
+    "question": "Qu'est-ce qui te fait te sentir légitime ?",
+    "forme": "opinion",
+    "sujet": "emotions",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-234",
+    "question": "Pain au chocolat ou chocolatine ? Tu as 30 secondes pour convaincre la table.",
+    "forme": "defi",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-235",
+    "question": "Quel plat que tout le monde adore trouves-tu surcoté ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-236",
+    "question": "Quel film culte détestes-tu ? Défends-toi.",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-237",
+    "question": "Quel est ton talent le plus inutile ? Démonstration.",
+    "forme": "defi",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-238",
+    "question": "Quel compliment fais-tu le plus souvent… et le penses-tu vraiment ?",
+    "forme": "aveu",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-239",
+    "question": "Si tu pouvais gommer une décision prise l'an dernier, laquelle ?",
+    "forme": "scenario",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 2,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-240",
+    "question": "Quel métier te ferait le plus horreur, et pourquoi ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-241",
+    "question": "Quelle question détestes-tu qu'on te pose en soirée ?",
+    "forme": "opinion",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-242",
+    "question": "Quand t'es-tu senti.e le plus adulte… et le plus enfant ?",
+    "forme": "recit",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-243",
+    "question": "Que ferais-tu différemment si personne ne te jugeait ?",
+    "forme": "scenario",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 2,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-244",
+    "question": "Questionnaire de Proust : quel est, pour toi, le comble de la misère ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-245",
+    "question": "Questionnaire de Proust : quelle faute t'inspire le plus d'indulgence ?",
+    "forme": "opinion",
+    "sujet": "valeurs",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-246",
+    "question": "Quel projet un peu fou repousses-tu depuis des années ?",
+    "forme": "aveu",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-247",
+    "question": "Où te vois-tu dans dix ans, honnêtement ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 2,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-248",
+    "question": "Si l'argent n'existait pas, que ferais-tu de tes journées ?",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-249",
+    "question": "Quel voyage dois-tu absolument faire avant de mourir ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-250",
+    "question": "Quelle compétence aimerais-tu maîtriser d'ici un an ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-251",
+    "question": "Quelle aventure aimerais-tu qu'on vive ensemble avant la fin de l'année ?",
+    "forme": "demande",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 4
+    }
+  },
+  {
+    "id": "amis-252",
+    "question": "Quel rêve as-tu abandonné, et le regrettes-tu ?",
+    "forme": "aveu",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 4,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 2,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-253",
+    "question": "Si tu ouvrais un commerce demain, ce serait quoi ?",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 4,
+      "energie": 4,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-254",
+    "question": "À quoi ressemblerait ta journée parfaite, du réveil au coucher ?",
+    "forme": "scenario",
+    "sujet": "quotidien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-255",
+    "question": "Qu'aimerais-tu avoir le courage de faire cette année ?",
+    "forme": "aveu",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 3,
+      "proximite": 2
+    }
+  },
+  {
+    "id": "amis-256",
+    "question": "Quel défi pourrions-nous nous lancer tous ensemble, ce soir, pour rire ?",
+    "forme": "defi",
+    "sujet": "lien",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 2,
+      "humour": 5,
+      "energie": 5,
+      "proximite": 3
+    }
+  },
+  {
+    "id": "amis-257",
+    "question": "Quelle trace aimerais-tu laisser ?",
+    "forme": "opinion",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 3,
+      "piquant": 1,
+      "humour": 1,
+      "energie": 1,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-258",
+    "question": "Si tu pouvais changer de métier demain sans aucune contrainte, lequel choisirais-tu ?",
+    "forme": "scenario",
+    "sujet": "avenir",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 3,
+      "energie": 3,
+      "proximite": 1
+    }
+  },
+  {
+    "id": "amis-259",
+    "question": "Si tu pouvais refaire tes études, que choisirais-tu ?",
+    "forme": "scenario",
+    "sujet": "jeunesse",
+    "evaluations": {
+      "intimite": 1,
+      "piquant": 1,
+      "humour": 2,
+      "energie": 2,
+      "proximite": 1
+    }
+  }
+]
