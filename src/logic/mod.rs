@@ -5,6 +5,7 @@ use std::{fmt::Display, fs::File, io::BufReader};
 pub mod ai;
 
 #[derive(Deserialize)]
+#[serde(rename_all = "lowercase")]
 pub enum Mode {
     Amis,
     Couple,
@@ -85,6 +86,7 @@ impl Question {
             + (score.evaluation.piquant as f32 - self.evaluations.piquant as f32).powi(2)
             + (score.evaluation.proximite as f32 - self.evaluations.proximite as f32).powi(2))
         .sqrt()
+            + rand::random_range(0..3) as f32
     }
 }
 

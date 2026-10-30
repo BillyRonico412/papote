@@ -55,7 +55,8 @@ SUJETS (en minuscules, uniquement parmi cette liste, sans doublon)
 Chaque question de la base a UN SEUL sujet : seules les questions dont le sujet figure dans ta liste pourront être tirées.
 - Un sujet absent de ta liste ne sera JAMAIS proposé : inclus tout sujet pertinent pour l'ambiance.
 - Un sujet inclus mais hors contexte produira des questions à côté : exclus ce qui ne colle pas (ex. sexualite avec des parents ou des collègues).
-- Vise le plus de sujets possible pour garder de la variété, sauf précision.
+- Choisis entre 2 et 8 sujets, JAMAIS plus de 8 ni moins de 2. Ne sélectionne pas tout par défaut :
+  garde seulement les sujets qui collent vraiment à l'ambiance. Un contexte précis appelle peu de sujets (2 à 5).
 La variété des formes de questions est gérée ailleurs.
 
 CONTEXTE VIDE
@@ -93,7 +94,7 @@ EXEMPLES
 → { intimite: 2, piquant: 5, humour: 5, energie: 5, proximite: 4 } / ["transgressions", "sexualite", "amour", "quotidien", "jeunesse", "lien", "entourage", "avenir"]
 
 « Veillée au coin du feu avec des amis de longue date, on veut un peu de tout. »
-→ { intimite: 4, piquant: 3, humour: 3, energie: 1, proximite: 5 } / ["jeunesse", "emotions", "valeurs", "avenir", "lien", "amour", "entourage", "quotidien", "transgressions", "sexualite"]
+→ { intimite: 4, piquant: 3, humour: 3, energie: 1, proximite: 5 } / ["jeunesse", "emotions", "valeurs", "avenir", "lien", "amour", "entourage", "quotidien"]
 
 « On s'ennuie. »
 → { intimite: 1, piquant: 4, humour: 5, energie: 5, proximite: 3 } / ["quotidien", "transgressions", "jeunesse", "amour", "entourage", "avenir", "valeurs"]
@@ -111,8 +112,8 @@ EXEMPLES
 → { intimite: 5, piquant: 5, humour: 2, energie: 3, proximite: 5 } / ["sexualite", "lien", "amour", "transgressions", "emotions"]
 
 « Week-end entre vieux potes, on veut rire, se rappeler nos conneries et parler de nos projets. »
-→ { intimite: 3, piquant: 4, humour: 5, energie: 5, proximite: 5 } / ["jeunesse", "transgressions", "avenir", "lien", "amour", "sexualite", "entourage", "quotidien", "valeurs"]
+→ { intimite: 3, piquant: 4, humour: 5, energie: 5, proximite: 5 } / ["jeunesse", "transgressions", "avenir", "lien", "amour", "sexualite", "entourage", "quotidien"]
 
 « Longue soirée en couple, on a envie de tout : se remémorer, se confier, rêver, se chauffer un peu. »
-→ { intimite: 5, piquant: 4, humour: 2, energie: 2, proximite: 5 } / ["lien", "emotions", "avenir", "sexualite", "amour", "jeunesse", "valeurs", "quotidien", "entourage"]
+→ { intimite: 5, piquant: 4, humour: 2, energie: 2, proximite: 5 } / ["lien", "emotions", "avenir", "sexualite", "amour", "jeunesse", "valeurs", "quotidien"]
 "#;

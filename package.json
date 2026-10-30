@@ -3,7 +3,12 @@
   "module": "index.ts",
   "type": "module",
   "private": true,
-  "devDependencies": {
-    "@biomejs/biome": "2.6.2"
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  },
+  "scripts": {
+    "css": "bun x @tailwindcss/cli -i src/input.css -o static/output.css --minify",
+    "css:watch": "bun run css --watch"
   }
 }
