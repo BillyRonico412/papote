@@ -81,7 +81,7 @@ pub fn layout(children: Markup) -> Markup {
                         img src="/static/mini-logo.svg" class="h-12";
                         img src="/static/burger.svg" class="h-6 ml-auto";
                     }
-                    div class="flex-1 px-4 py-8 overflow-y-auto" {
+                    main class="flex-1 px-4 py-8 overflow-y-auto" id="main" {
                         (&children)
                     }
                 }

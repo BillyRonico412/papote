@@ -21,7 +21,14 @@ pub async fn handler(htmx: Htmx) -> Markup {
                     "Des échanges taillés sur-mesure pour créer un vrai moment de partage"
                 }
                 div class="text mt-20" {
-                    (button(html!("C'est parti")))
+                    a
+                        hx-get="/choices"
+                        hx-push-url="true"
+                        hx-target="#main"
+                        hx-swap="outerHTML"
+                    {
+                        (button(html!("C'est parti")))
+                    }
                 }
             }
         },
