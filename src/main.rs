@@ -1,4 +1,4 @@
-use axum::{Router, http::StatusCode, response::IntoResponse};
+use axum::{Router, http::StatusCode, response::IntoResponse, routing::get};
 use tower_http::services::ServeDir;
 
 mod handlers;
@@ -8,7 +8,9 @@ mod utils;
 #[tokio::main]
 async fn main() -> anyhow::Result<()> {
     dotenvy::dotenv()?;
-    let app = Router::new().fallback_service(ServeDir::new("static"));
+    let app = Router::new()
+        .route("/", get(handlers::index::handler))
+        .nest_service("/static", ServeDir::new("static"));
     let listener = tokio::net::TcpListener::bind("0.0.0.0:8080").await?;
     println!("Server running in http://localhost:8080");
     axum::serve(listener, app).await?;

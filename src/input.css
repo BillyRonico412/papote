@@ -1,9 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 @import "tailwindcss";
-@plugin "daisyui";
 
+@theme {
+  --color-primary: rgba(255, 94, 72, 1);
+}
 
 body {
-  font-family: 'Commissioner', sans-serif;
+  font-family: 'Lato', sans-serif;
+  background: linear-gradient(180deg, #FF3864 0%, #FF5E48 100%);
+  @apply text-white;
+}
+
+@layer base {
+  .title {
+    font-family: 'Fascinate', cursive;
+  }
 }

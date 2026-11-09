@@ -29,18 +29,63 @@ impl IntoResponse for AppError {
     }
 }
 
+pub struct Htmx(bool);
+
+impl<S> FromRequestParts<S> for Htmx {
+    type Rejection = ();
+
+    fn from_request_parts(
+        parts: &mut axum::http::request::Parts,
+        _state: &S,
+    ) -> impl Future<Output = Result<Self, Self::Rejection>> + Send {
+        async {
+            Ok(Self(parts.headers.get("HX-Request").is_some()))
+        }
+    }
+}
+
+
 pub fn layout(children: Markup) -> Markup {
     html! {
         (DOCTYPE)
         head {
             meta charset="utf-8";
             title { "Urban Soccer Video" }
-            link href="/output.css" rel="stylesheet";
-            script src="/htmx.js" {};
-            script src="/alpine.js" {};
+            meta name="viewport" content="width=device-width, initial-scale=1";
+            link href="/static/output.css" rel="stylesheet";
+            script src="/static/htmx.js" {};
+            script src="/static/alpine.js" {};
         }
         body class="w-screen h-screen overflow-hidden flex flex-col" {
-            (&children)
+            div
+                x-data="{ ready: false }"
+                x-init="setTimeout(() => { ready = true }, 1000)"
+            {
+                div
+                    class="flex justify-center-items-center w-dvw h-dvh relative"
+                    x-show="!ready"
+                    x-transition
+                {
+                    img src="/static/logo.svg" class="w-full";
+                    p
+                        class="absolute bottom-4 left-1/2 -translate-x-1/2 text-center text-base italic"
+                    {
+                        "Pensé et créé par" br; "Ronico Billy & Rachel Bastié"
+                    }
+                }
+                div
+                    class="flex flex-col gap-4 w-dvw h-dvh relative"
+                    x-show="ready" x-transition
+                {
+                    header class="flex items-center justify-beetween px-4 py-2" {
+                        img src="/static/mini-logo.svg" class="h-12";
+                        img src="/static/burger.svg" class="h-6 ml-auto";
+                    }
+                    div class="flex-1 px-4 py-8 overflow-y-auto" {
+                        (&children)
+                    }
+                }
+            }
         }
     }
 }
@@ -56,17 +101,12 @@ pub fn page(
     }
 }
 
-pub struct Htmx(bool);
-
-impl<S> FromRequestParts<S> for Htmx {
-    type Rejection = ();
-
-    fn from_request_parts(
-        parts: &mut axum::http::request::Parts,
-        _state: &S,
-    ) -> impl Future<Output = Result<Self, Self::Rejection>> + Send {
-        async {
-            Ok(Self(parts.headers.get("HX-Request").is_some()))
+pub fn button(
+        children: Markup
+    ) -> Markup {
+    html! {
+        button class="px-6 py-2 uppercase bg-white text-primary rounded-lg font-bold" {
+            (&children)
         }
     }
 }
