@@ -11,6 +11,10 @@ async fn main() -> anyhow::Result<()> {
     let app = Router::new()
         .route("/", get(handlers::index::handler))
         .route("/choices", get(handlers::choices::handler))
+        .route("/context/{mode}", get(handlers::context::handler))
+        .route("/menu", get(handlers::menu::handler))
+        .route("/principe", get(handlers::principe::handler))
+        .route("/a-propos", get(handlers::about::handler))
         .nest_service("/static", ServeDir::new("static"));
     let listener = tokio::net::TcpListener::bind("0.0.0.0:8080").await?;
     println!("Server running in http://localhost:8080");

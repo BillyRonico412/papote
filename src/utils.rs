@@ -79,7 +79,14 @@ pub fn layout(children: Markup) -> Markup {
                 {
                     header class="flex items-center justify-beetween px-4 py-2 max-w-sm w-full mx-auto" {
                         img src="/static/mini-logo.svg" class="h-12";
-                        img src="/static/burger.svg" class="h-6 ml-auto";
+                        a 
+                            hx-get="/menu"
+                            hx-push-url="true"
+                            hx-target="#main"
+                            class="ml-auto"
+                        {
+                            img src="/static/burger.svg" class="h-6";
+                        }
                     }
                     main class="flex-1 px-4 py-8 overflow-y-auto max-w-sm w-full mx-auto" id="main" {
                         (&children)
@@ -105,7 +112,7 @@ pub fn button(
         children: Markup
     ) -> Markup {
     html! {
-        button class="px-6 py-2 uppercase bg-white text-primary rounded-lg font-bold" {
+        button class="px-6 py-2 uppercase bg-white text-primary rounded-lg font-bold text-lg" {
             (&children)
         }
     }

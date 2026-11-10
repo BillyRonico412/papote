@@ -15,7 +15,13 @@ pub async fn handler(htmx: Htmx) -> Markup {
                         "Un tête-à-tête où se découvrir"
                     }
                     div class="mt-15" {
-                        (&button(html!("Choisir")))
+                        a
+                            hx-get="/context/couple"
+                            hx-push-url="true"
+                            hx-target="#main"
+                        {
+                            (&button(html!("Choisir")))
+                        }
                     }
                 }
 
@@ -29,7 +35,13 @@ pub async fn handler(htmx: Htmx) -> Markup {
                         "Pour lancer la bonne énergie du soir"
                     }
                     div class="mt-15" {
-                        (&button(html!("Choisir")))
+                        a
+                            hx-get="/context/amis"
+                            hx-push-url="true"
+                            hx-target="#main"
+                        {
+                            (&button(html!("Choisir")))
+                        }
                     }
                 }
             }

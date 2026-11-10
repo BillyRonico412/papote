@@ -25,7 +25,6 @@ pub async fn handler(htmx: Htmx) -> Markup {
                         hx-get="/choices"
                         hx-push-url="true"
                         hx-target="#main"
-                        hx-swap="outerHTML"
                     {
                         (button(html!("C'est parti")))
                     }
