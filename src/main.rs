@@ -7,7 +7,7 @@ mod utils;
 
 #[tokio::main]
 async fn main() -> anyhow::Result<()> {
-    dotenvy::dotenv()?;
+    dotenvy::dotenv().ok();
     let app = Router::new()
         .route("/", get(handlers::index::handler))
         .route("/choices", get(handlers::choices::handler))

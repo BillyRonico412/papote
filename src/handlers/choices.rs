@@ -6,7 +6,7 @@ pub async fn handler(htmx: Htmx) -> Markup {
     page(
         htmx,
         html! {
-            div class="h-full flex flex-col items-center justify-around" {
+            div class="w-full h-full flex flex-col items-center justify-around" {
                 div class="flex flex-col items-center" {
                     p class="text-4xl uppercase title" {
                         "En couple"
@@ -23,10 +23,10 @@ pub async fn handler(htmx: Htmx) -> Markup {
 
                 div class="flex flex-col items-center" {
                     p class="text-4xl uppercase title" {
-                        "En couple"
+                        "Entre amis"
                     }
                     p class="mt-5" {
-                        "Un tête-à-tête où se découvrir"
+                        "Pour lancer la bonne énergie du soir"
                     }
                     div class="mt-15" {
                         (&button(html!("Choisir")))

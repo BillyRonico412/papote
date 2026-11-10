@@ -77,11 +77,11 @@ pub fn layout(children: Markup) -> Markup {
                     class="flex flex-col gap-4 w-dvw h-dvh relative"
                     x-show="ready" x-transition
                 {
-                    header class="flex items-center justify-beetween px-4 py-2" {
+                    header class="flex items-center justify-beetween px-4 py-2 max-w-sm w-full mx-auto" {
                         img src="/static/mini-logo.svg" class="h-12";
                         img src="/static/burger.svg" class="h-6 ml-auto";
                     }
-                    main class="flex-1 px-4 py-8 overflow-y-auto" id="main" {
+                    main class="flex-1 px-4 py-8 overflow-y-auto max-w-sm w-full mx-auto" id="main" {
                         (&children)
                     }
                 }
