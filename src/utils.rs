@@ -1,5 +1,12 @@
 use axum::{extract::FromRequestParts, http::StatusCode, response::{IntoResponse, Response}};
 use maud::{DOCTYPE, Markup, html};
+use rig::extractor::Extractor;
+
+use crate::logic::Score;
+
+pub struct AppState {
+    pub extractor: Extractor<Score>
+}
 
 pub struct AppError(anyhow::Error);
 

@@ -91,7 +91,7 @@ impl Question {
 }
 
 pub async fn get_score_by_context(
-    extractor: Extractor<Score>,
+    extractor: &Extractor<Score>,
     context: &str,
 ) -> anyhow::Result<Score> {
     Ok(extractor.extract(context).await?.output)
