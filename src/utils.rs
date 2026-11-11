@@ -66,7 +66,7 @@ pub fn layout(children: Markup) -> Markup {
         body class="w-screen h-screen overflow-hidden flex flex-col" {
             div
                 x-data="{ ready: false }"
-                x-init="setTimeout(() => { ready = true }, 1000)"
+                x-init="setTimeout(() => { ready = true }, 2000)"
             {
                 div
                     class="flex justify-center-items-center w-dvw h-dvh relative"
@@ -79,13 +79,20 @@ pub fn layout(children: Markup) -> Markup {
                     {
                         "Pensé et créé par" br; "Ronico Billy & Rachel Bastié"
                     }
+                    img src="/static/masquotte.png" class="w-full fixed left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 -z-10";
                 }
                 div
                     class="flex flex-col gap-4 w-dvw h-dvh relative"
                     x-show="ready" x-transition
                 {
                     header class="flex items-center justify-beetween px-4 py-2 max-w-sm w-full mx-auto" {
-                        img src="/static/mini-logo.svg" class="h-12";
+                        a
+                            hx-get="/"
+                            hx-push-url="true"
+                            hx-target="#main"
+                        {
+                            img src="/static/mini-logo.svg" class="h-12";
+                        }
                         a 
                             hx-get="/menu"
                             hx-push-url="true"

@@ -22,16 +22,17 @@ pub async fn handler(
 ) -> Result<Markup, AppError> {
     let score = get_score_by_context(&state.extractor, &query.context).await?;
     let questions = get_questions(&query.mode)?;
-    let questions = get_questions_by_score(&questions, &score, 10);
+    let questions = get_questions_by_score(&questions, &score, 50);
 
     Ok(page(
         htmx,
         html! {
             div class="w-full h-full flex flex-col items-center gap-6" x-data="{index: 0}" {
-                h1 class="title text-2xl" { "La question" }
-
                 @for (i, question) in &mut questions.iter().enumerate() {
-                    p class="text-center flex-1 flex items-center" x-show=(format!("index == {}", i)) {
+                    p
+                        class="text-center flex-1 flex items-center text-lg font-medium text-balance"
+                        x-show=(format!("index == {}", i))
+                    {
                         (&question.question)
                     }
                 }
@@ -55,7 +56,7 @@ pub async fn handler(
                 }
                 a
                     class="uppercase font-bold"
-                    hx-get="/context"
+                    hx-get="/choices"
                     hx-target="#main"
                     hx-push-url="true"
                 {
