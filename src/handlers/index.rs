@@ -1,6 +1,6 @@
 use maud::{Markup, html};
 
-use crate::utils::{Htmx, button, page};
+use crate::utils::{Htmx, page};
 
 pub async fn handler(htmx: Htmx) -> Markup {
     page(
@@ -16,17 +16,18 @@ pub async fn handler(htmx: Htmx) -> Markup {
                     "Vos conversations sur-mesure"
                 }
                 p class="mt-5" {
-                    "À deux ou entre amis, choisissez votre groupe, ajustez vos curseurs et laissez l'application générer la question parfaite pour rythmer votre soirée."
+                    "À deux ou entre amis, choisissez votre groupe, ajustez vos curseurset laissez l'application générer la question parfaite pour rythmer votre soirée."
                     br;
-                    "Des échanges taillés sur-mesure pour créer un vrai moment de partage"
+                    "Des échanges taillés sur-mesure pour créerun vrai moment de partage"
                 }
                 div class="text mt-20" {
                     a
+                        class="btn"
                         hx-get="/choices"
                         hx-push-url="true"
                         hx-target="#main"
                     {
-                        (button(html!("C'est parti")))
+                        "C'est parti"
                     }
                 }
             }

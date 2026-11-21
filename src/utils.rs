@@ -2,10 +2,10 @@ use axum::{extract::FromRequestParts, http::StatusCode, response::{IntoResponse,
 use maud::{DOCTYPE, Markup, html};
 use rig::extractor::Extractor;
 
-use crate::logic::Score;
+use crate::logic::Questions;
 
 pub struct AppState {
-    pub extractor: Extractor<Score>
+    pub extractor: Extractor<Questions>
 }
 
 pub struct AppError(anyhow::Error);
@@ -18,6 +18,7 @@ impl From<anyhow::Error> for AppError {
 
 impl IntoResponse for AppError {
     fn into_response(self) -> Response {
+        println!("{}", self.0);
         (
             StatusCode::INTERNAL_SERVER_ERROR, 
             layout(html! {
@@ -25,9 +26,6 @@ impl IntoResponse for AppError {
                     div role="alert" class="alert alert-error alert-soft alert-vertical" {
                         h3 class="font-bold" {
                             "Erreur lors du chargement de l'url. Soit l'url est incorect, soit le site est en panne !"
-                        }
-                        p class="text-xs" {
-                            (&self.0.to_string())
                         }
                     }
                 }
@@ -50,7 +48,6 @@ impl<S> FromRequestParts<S> for Htmx {
         }
     }
 }
-
 
 pub fn layout(children: Markup) -> Markup {
     html! {
@@ -119,15 +116,5 @@ pub fn page(
         children
     } else {
         layout(children)
-    }
-}
-
-pub fn button(
-        children: Markup
-    ) -> Markup {
-    html! {
-        button class="px-6 py-2 uppercase bg-white text-primary rounded-lg font-bold text-lg" {
-            (&children)
-        }
     }
 }

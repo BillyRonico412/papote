@@ -5,7 +5,7 @@ use maud::{Markup, html};
 use serde::Deserialize;
 
 use crate::{
-    logic::{Mode, get_questions, get_questions_by_score, get_score_by_context},
+    logic::{Mode, get_questions},
     utils::{AppError, AppState, Htmx, page},
 };
 
@@ -20,9 +20,7 @@ pub async fn handler(
     query: Query<QuestionsQuery>,
     State(state): State<Arc<AppState>>,
 ) -> Result<Markup, AppError> {
-    let score = get_score_by_context(&state.extractor, &query.context).await?;
-    let questions = get_questions(&query.mode)?;
-    let questions = get_questions_by_score(&questions, &score, 50);
+    let questions = get_questions(&state.extractor, &query.mode, &query.context).await?;
 
     Ok(page(
         htmx,
@@ -33,7 +31,7 @@ pub async fn handler(
                         class="text-center flex-1 flex items-center text-lg font-medium text-balance"
                         x-show=(format!("index == {}", i))
                     {
-                        (&question.question)
+                        (&question.0)
                     }
                 }
                 div class="w-full flex justify-around" {

@@ -1,6 +1,6 @@
 use maud::{Markup, html};
 
-use crate::utils::{Htmx, button, page};
+use crate::utils::{Htmx, page};
 
 pub async fn handler(htmx: Htmx) -> Markup {
     page(
@@ -16,11 +16,12 @@ pub async fn handler(htmx: Htmx) -> Markup {
                     }
                     div class="mt-15" {
                         a
+                            class="btn"
                             hx-get="/context/couple"
                             hx-push-url="true"
                             hx-target="#main"
                         {
-                            (&button(html!("Choisir")))
+                            "Choisir"
                         }
                     }
                 }
@@ -36,11 +37,12 @@ pub async fn handler(htmx: Htmx) -> Markup {
                     }
                     div class="mt-15" {
                         a
+                            class="btn"
                             hx-get="/context/amis"
                             hx-push-url="true"
                             hx-target="#main"
                         {
-                            (&button(html!("Choisir")))
+                            "Choisir"
                         }
                     }
                 }

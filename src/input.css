@@ -15,4 +15,8 @@ body {
   .title {
     font-family: 'Fascinate', cursive;
   }
+
+  .btn {
+    @apply px-6 py-2 uppercase bg-white text-primary rounded-lg font-bold text-lg;
+  }
 }
